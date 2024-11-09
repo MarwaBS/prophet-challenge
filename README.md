@@ -63,7 +63,7 @@ In this step, we applied Facebook's Prophet model to the hourly Google search da
 
 **Answer**: The near-term forecast for the popularity of MercadoLibre shows a general trend of declining search traffic, particularly between **April** and **October**. Based on historical patterns, after this period, there is an expected gradual recovery, with search traffic potentially increasing starting **in October**. It’s essential to monitor ongoing trends closely, as market dynamics can shift rapidly.
 
-![Forecast for Google Search Traffic](images/forecast.png)  
+![Forecast for Google Search Traffic](Images/forecast.png)  
 *Figure 4.1: Time Series Forecast for Google Search Traffic*
 
 #### **What Time of Day Exhibits the Greatest Popularity?**
